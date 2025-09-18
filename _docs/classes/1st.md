@@ -32,13 +32,6 @@ order: 1
 
 ### Journal Entry
 
-This year, the White House launched the Presidential AI Challenge. The goal is to find creative ways for students, teachers, and communities to use Artificial Intelligence (AI) to solve real-world problems. The prize for winning teams is $10,000 per team member. You can learn more about the challenge here: [Presidential AI Challenge](https://www.ai.gov/initiatives/presidential-challenge).
-
-Projects should:
-- Use AI responsibly and ethically.
-- Help people in education, health, safety, or the community.
-- Be creative and realistic enough to try out.
-
 #### Prompt
 
 For today’s journal, write 5–7 complete sentences using the C.E.R. format:
@@ -46,8 +39,9 @@ For today’s journal, write 5–7 complete sentences using the C.E.R. format:
 - Evidence: Explain how your idea meets the challenge requirements.
 - Reasoning: Show why your idea would be useful and how it would help people.
 
-If you’re interested in actually submitting an idea for the challenge, you can fill out this form: [Presidential AI Challenge - Participation](https://docs.google.com/forms/d/e/1FAIpQLSdvV8FUN04EWx1Bzgj5cn3DWv-7IVqJvd6caPytAGFTNLrkew/viewform?usp=header).
-
+C- My idea for an AI project would be about cats and dogs. 
+E- These are easy things to do adn somthing fun and i think people would be interested in them. I would be comparing them using AI. I would see what AI think aboutb them and which one is better.
+R- The reason i picked those is because its simple and safe for the world. They will be fun to learn about as i reasearch them using AI.
 ----
 
 # September 15, 2025
@@ -284,4 +278,5 @@ What did you think computer science was before starting this class? Has your vie
  2. **Sphero**: Complete Blocks 6 - Class code: 6GQ2LY
  3. **Code Combat (Python)**: Class code: BreadDishHome -->
  
+
 ----
