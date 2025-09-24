@@ -43,7 +43,7 @@ Do you think working in a virtual store for real money is a good idea or a bad i
 
 You may choose to complete the Beat the AI Challenge. For this option, you can use AI tools to help write your response. To receive credit, you must clearly mark at the bottom of your journal: “This response used AI.” Your challenge is to edit and improve the AI’s draft so it sounds more like you and less like a machine.
 
-----
+I think working in a virtual is not a good idea.I think this because it could get your information and you wouldn't get paid.I also would rather work in person than online.
 
 # September 18, 2025
 
@@ -324,4 +324,5 @@ What did you think computer science was before starting this class? Has your vie
  2. **Sphero**: Complete Blocks 6 - Class code: 6GQ2LY
  3. **Code Combat (Python)**: Class code: BreadDishHome -->
  
+
 ----
