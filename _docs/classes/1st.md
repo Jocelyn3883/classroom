@@ -3,7 +3,7 @@ title: 1st Period
 subtitle: Fundamentals of Computer Science
 category: Classes
 order: 1
----
+Jocelyn Leal-Wilkinson
 
 # October 6, 2025
 
@@ -13,7 +13,7 @@ order: 1
 
 If you were in charge of your school, what would your technology and AI policy be? Think about things like cell phones, Chromebooks, AI tools (like ChatGPT), and online games. Should games be blocked, or should certain ones (like math or learning games) be allowed? In 5–7 sentences, explain your rules and why you think they would make school better.
 
-----
+If I was in charge of my school,the technology would be aloud but,AI wouldn't be aloud.I think that games should be alowed because school would be more fun as well as phones. It wouldn't beboring to come to school and just have to learn and write. For some people Mabye if we had games people would actually go to class because it's fun. Most people skip classes because it's boring. That is my reason on having games and phones in school.
 
 # October 7, 2025 - October 9, 2025
 
@@ -562,4 +562,5 @@ What did you think computer science was before starting this class? Has your vie
  2. **Sphero**: Complete Blocks 6 - Class code: 6GQ2LY
  3. **Code Combat (Python)**: Class code: BreadDishHome -->
  
+
 ----
