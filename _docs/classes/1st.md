@@ -5,110 +5,13 @@ category: Classes
 order: 1
 ---
 
-# October 14, 2025
+# October 6, 2025
 
 ## Agenda
 
-### Journal Prompt: Prompt Engineering with Canva AI
+### Journal Entry
 
-Tools like Canva AI can generate interactive lessons, presentations, and designs when given clear, detailed instructions — called prompts. Your challenge today is to act as a teacher, trainer, or professional using AI to teach or demonstrate something academic.
-
-Use Canva AI to create an interactive project that teaches a topic or concept. Your project could be:
-- An interactive slide deck or mini-lesson (e.g., explaining variables in Python or the water cycle)
-- A clickable quiz or review activity
-- A choose-your-own-path story related to a subject
-- A digital poster or infographic with clickable or animated elements
-- A short educational game or simulation
-
-#### Part 1: Your Prompt
-
-Write a detailed prompt for Canva AI that tells it exactly what to make. Include:
-
-- The topic or subject
-- The goal (what learners should understand or do)
-- The tone and audience (who it’s for)
-- The interactive elements (clicks, animations, paths, or quizzes)
-
-Then, generate your Canva design and share the link in your journal entry.
-
-
-#### Part 2: Your Reflection
-
-In 5–7 sentences, explain:
-
-- What your prompt was designed to do
-- How Canva interpreted it
-- Which interactive parts worked best
-- How you could improve your prompt or design next time
-
-----
-
-<!-- # October 14, 2025
-
-## Agenda
-
-### Journal Entry - Prompt Engineering with Canva AI
-
-AI tools like Canva AI can help people design lessons, games, and creative projects — but only if they are given clear and detailed instructions. This skill is called prompt engineering.
-
-According to [CompTIA’s 2025 Workforce and Learning Trends report](https://www.comptia.org/en-us/resources/research/workforce-and-learning-trends-2025), AI skills are now a top workforce priority. And recent [industry research](https://www.yochana.com/2025-prompt-engineering-salary-landscape/) shows that prompt engineers today can earn between $63,000 and over $270,000 annually, depending on experience and role.  That means being good at writing prompts isn’t just creative — it can be financially worthwhile and useful in many tech-related jobs.
-
-Today, you’ll act like a teacher or professional and create a Canva AI prompt that teaches something academic and includes interactive elements.
-
-
-
-
-
-
-
-
-
-🧩 Part 1: The Prompt
-
-
-
-
-
-Choose a topic from any subject (science, math, history, English, or computer science).
-Examples:
-“Create an interactive slide deck that explains the water cycle to 5th graders.”
-“Make a quiz that helps students practice variables in Python.”
-“Design a choose-your-own-path story about the Civil Rights Movement.”
-
-Write a detailed Canva AI prompt that tells it exactly what to make. Include:
-What the topic is
-Who it’s for (younger students, classmates, etc.)
-What you want it to build (slide deck, quiz, story, poster, or game)
-How it should look or sound (fun, professional, colorful, etc.)
-
-Generate your design in Canva AI and share the link in your journal.
-
-
-
-
-
-
-
-
-
-
-💬 Part 2: The Reflection
-
-
-
-
-
-In 6–7 sentences, explain:
-
-
-
-What your prompt was designed to do
-How Canva AI understood or built your idea
-What parts worked well
-What parts didn’t come out as expected
-How you could improve your prompt to get a better design next time
-Why being good at prompt engineering could be valuable in future careers -->
-
+If you were in charge of your school, what would your technology and AI policy be? Think about things like cell phones, Chromebooks, AI tools (like ChatGPT), and online games. Should games be blocked, or should certain ones (like math or learning games) be allowed? In 5–7 sentences, explain your rules and why you think they would make school better.
 
 ----
 
@@ -121,16 +24,6 @@ Why being good at prompt engineering could be valuable in future careers -->
 - Open [hourofcode.com](https://hourofcode.com/us) in a new tab.
 - Choose any activity that interest you.
 - In your GitHub journal, let we know which activity you completed. (Use today’s date as the heading).
-
-----
-
-# October 6, 2025
-
-## Agenda
-
-### Journal Entry
-
-If you were in charge of your school, what would your technology and AI policy be? Think about things like cell phones, Chromebooks, AI tools (like ChatGPT), and online games. Should games be blocked, or should certain ones (like math or learning games) be allowed? In 5–7 sentences, explain your rules and why you think they would make school better.
 
 ----
 
@@ -277,7 +170,7 @@ Once you're logged-in, you can click the direct link to your missing assignment:
 
 Students often say the phrase "6, 7" during the day, but its meaning is unclear. Your challenge is to explain this phrase in your own words. **Write exactly 67 words, spread across six or seven sentences.** Consider how students use it in class or in the halls. Think about the mood or tone when it's spoken. Be creative, but also give your best explanation of why people keep repeating it.
 
-<!-- Students often say the phrase “6, 7” during the day. In **6 to 7 sentences** using **exactly 67 words**, explain what you think this phrase means. Write about how students use it, what the mood or tone is when they say it, and why it might catch on as part of school culture. Be creative, but also give your best explanation of why people repeat it so much. -->
+Students use 67 when they are talking about time, daate or hieght. There mood and tone is annoying and loud. They keep repeting it because they want to be known and popular like everyone else they want to fit in. They think its cool to copy what everyone else does and creat different things to say or do.
 
 ### 2. Missing Work
 
@@ -669,4 +562,5 @@ What did you think computer science was before starting this class? Has your vie
  2. **Sphero**: Complete Blocks 6 - Class code: 6GQ2LY
  3. **Code Combat (Python)**: Class code: BreadDishHome -->
  
+
 ----
